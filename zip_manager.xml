@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+    <PluginURL>https://raw.githubusercontent.com/jcofer555/zip_manager/main/plugin/zip_manager.plg</PluginURL>
+    <PluginAuthor>jcofer555</PluginAuthor>
+    <Beta>False</Beta>
+    <Category>Tools:System</Category>
+    <multiLanguage>false</multiLanguage>
+    <Name>Zip Manager</Name>
+    <Description>
+        Easily compress and extract a wide variety of archive formats directly from the Unraid WebUI. This plugin integrates 7-Zip with a simple user interface, allowing users to create or unpack archives all without leaving the browser.
+    </Description>
+    <Support>https://https://forums.unraid.net/topic/191678-7-zip-for-unraid/</Support>
+    <IconFA>align-left</IconFA>
+</Containers>
