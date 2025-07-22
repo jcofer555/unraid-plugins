@@ -10,5 +10,5 @@
         Easily compress and extract a wide variety of archive formats directly from the Unraid WebUI. This plugin integrates 7-Zip with a simple user interface, allowing users to create or unpack archives all without leaving the browser.
     </Description>
     <Support>https://https://forums.unraid.net/topic/191678-7-zip-for-unraid/</Support>
-    <IconFA>file-zipper</IconFA>
+    <Icon>https://raw.githubusercontent.com/jcofer555/zip_manager/main/src/usr/local/emhttp/plugins/zip_manager/icon.png</Icon>
 </Containers>
