@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+    <PluginURLhttps://raw.githubusercontent.com/jcofer555/automover/main/plugin/automover.plg</PluginURL>
+    <PluginAuthor>jcofer555</PluginAuthor>
+    <Beta>False</Beta>
+    <Category>Tools:System</Category>
+    <multiLanguage>false</multiLanguage>
+    <Name>Automover</Name>
+    <Description>
+        Monitor pool disks, trigger the mover when thresholds are exceeded, and keep your system tidy — all through a smart, customizable UI.
+    </Description>
+    <Support>https://forums.unraid.net/topic/192216-automover-for-unraid/</Support>
+    <Icon>https://raw.githubusercontent.com/jcofer555/automover/main/src/usr/local/emhttp/plugins/automover/icon.png</Icon>
+</Containers>
