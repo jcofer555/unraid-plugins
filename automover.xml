@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Containers>
-    <PluginURLhttps://raw.githubusercontent.com/jcofer555/automover/main/plugin/automover.plg</PluginURL>
+    <PluginURL>https://raw.githubusercontent.com/jcofer555/automover/main/plugin/automover.plg</PluginURL>
     <PluginAuthor>jcofer555</PluginAuthor>
     <Beta>False</Beta>
     <Category>Tools:System</Category>
