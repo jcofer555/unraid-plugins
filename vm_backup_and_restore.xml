@@ -9,5 +9,6 @@
     <Description>
         A utility to backup a VM's vdisk, nvram, and xml and restore when needed.
     </Description>
-    <Support>https://forums.unraid.net/topic/197218-vm-backup-restore-for-unraid/</Support>	<Icon>https://raw.githubusercontent.com/jcofer555/vm-backup-and-restore/main/src/usr/local/emhttp/plugins/vm-backup-and-restore/icon.png</Icon>
+    <Support>https://forums.unraid.net/topic/197218-vm-backup-restore-for-unraid/</Support>
+    <Icon>https://raw.githubusercontent.com/jcofer555/vm-backup-and-restore/main/src/usr/local/emhttp/plugins/vm-backup-and-restore/icon.png</Icon>
 </Containers>
