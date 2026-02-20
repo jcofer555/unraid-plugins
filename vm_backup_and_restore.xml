@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Containers>
-    <PluginURL>https://raw.githubusercontent.com/jcofer555/vm-backup-and-restore/refs/heads/main/plugin/vm-backup-and-restore.plg</PluginURL>
+    <PluginURL>https://raw.githubusercontent.com/jcofer555/vm-backup-and-restore/main/plugin/vm-backup-and-restore.plg</PluginURL>
     <PluginAuthor>jcofer555</PluginAuthor>
     <Beta>False</Beta>
     <Category>Tools:System</Category>
     <multiLanguage>false</multiLanguage>
-    <Name>VM Backup & Restore</Name>
+    <Name>VM Backup &amp; Restore</Name>
     <Description>
         A utility to backup a VM's vdisk, nvram, and xml and restore when needed.
     </Description>
