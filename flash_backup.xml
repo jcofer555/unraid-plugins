@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+    <PluginURL>https://raw.githubusercontent.com/jcofer555/flash-backup/main/plugin/flash-backup.plg</PluginURL>
+    <PluginAuthor>jcofer555</PluginAuthor>
+    <Beta>False</Beta>
+    <Category>Tools:System</Category>
+    <multiLanguage>false</multiLanguage>
+    <Name>Flash Backup</Name>
+    <Description>
+        A utility to backup the unRAID flash drive.
+    </Description>
+    <Support>https://forums.unraid.net/topic/197716-flash-backup-for-unraid/</Support>
+    <Icon>https://raw.githubusercontent.com/jcofer555/flash-backup/main/src/usr/local/emhttp/plugins/flash-backup/icon.png</Icon>
+</Containers>
