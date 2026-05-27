@@ -7,7 +7,7 @@
     <multiLanguage>false</multiLanguage>
     <Name>Automover</Name>
     <Description>
-        Monitor pool disks, trigger the mover when thresholds are exceeded, and log what's moved.
+        Monitor pool disks, trigger the mover when thresholds are exceeded, and log what's moved. Development has ended and no further updates will be released
     </Description>
     <Support>https://forums.unraid.net/topic/192216-automover-for-unraid/</Support>
     <Icon>https://raw.githubusercontent.com/jcofer555/automover/main/src/usr/local/emhttp/plugins/automover/icon.png</Icon>
