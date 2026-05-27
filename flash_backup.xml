@@ -7,7 +7,7 @@
     <multiLanguage>false</multiLanguage>
     <Name>Flash Backup</Name>
     <Description>
-        A utility to backup the unRAID flash drive.
+        A utility to backup the unRAID flash drive. Development has ended and no further updates will be released
     </Description>
     <Support>https://forums.unraid.net/topic/197716-flash-backup-for-unraid/</Support>
     <Icon>https://raw.githubusercontent.com/jcofer555/flash-backup/main/src/usr/local/emhttp/plugins/flash-backup/icon.png</Icon>
